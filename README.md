@@ -1,6 +1,10 @@
-# MSSV: 1560584
-# Họ tên: Nguyễn Phước Bảo Toàn
-# Giới Thiệu: SV năm 3, lớp 15CK3
+# * MSSV: 1560584
+# * Họ tên: Nguyễn Phước Bảo Toàn
+# * Lớp: 15CK3
+# * Email: 1560584@student.hcmus.edu.vn
+# * Điện thoại: 0903 854 331
+# * [link FB](https://www.facebook.com/bondrain93)
+# * Giới Thiệu: SV năm 3, lớp 15CK3
 -----
 ## Thời Khoá Biểu
 
