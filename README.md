@@ -17,6 +17,38 @@
     </tr>
     <tr>
        <td>1</td> 
+       <td></td>
+       <td rowspan="3">TH PTUD CSDL2</td> 
+       <td rowspan="3">DV HDH Linux</td> 
+       <td rowspan="3"></td> 
+       <td rowspan="3"></td> 
+       <td rowspan="3">TH DV HDH Linux</td> 
+       <td rowspan="3"></td> 
+    </tr>
+    <tr>
+       <td>2</td>
+    </tr>
+    <tr>
+       <td>3</td>
+    </tr>
+    <tr>
+       <td>4</td> 
+       <td rowspan="3"></td> 
+       <td rowspan="3">TH TKHT Mang</td> 
+       <td rowspan="3">TKHT Mang</td> 
+       <td rowspan="3">PTUD CSDL2</td> 
+       <td rowspan="3">PL Dai Cuong</td> 
+       <td rowspan="3"></td> 
+       <td rowspan="3"></td> 
+    </tr>
+    <tr>
+       <td>5</td>
+    </tr>
+    <tr>
+       <td>6</td>
+    </tr>
+    <tr>
+       <td>7</td> 
        <td rowspan="3">TH PTUD CSDL2</td> 
        <td rowspan="3">DV HDH Linux</td> 
        <td rowspan="3"></td> 
@@ -26,6 +58,25 @@
        <td rowspan="3"></td> 
     </tr>
     <tr>
-       <td>1</td>
+       <td>8</td>
+    </tr>
+    <tr>
+       <td>9</td>
+    </tr>
+    <tr>
+       <td>10</td> 
+       <td rowspan="3"></td> 
+       <td rowspan="3">Lap Trinh Web 2</td> 
+       <td rowspan="3">TH LTWeb 2</td> 
+       <td rowspan="3"></td> 
+       <td rowspan="3"></td> 
+       <td rowspan="3"></td> 
+       <td rowspan="3"></td> 
+    </tr>
+    <tr>
+       <td>11</td>
+    </tr>
+    <tr>
+       <td>12</td>
     </tr>
 </table>
