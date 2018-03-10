@@ -3,8 +3,19 @@
 # Giới Thiệu: SV năm 3, lớp 15CK3
 -----
 ## Thời Khoá Biểu
-Tiết | Thứ 2 | Thứ 3 | Thứ 4 | Thứ 5 | Thứ 6 | Thứ 7 | Chủ nhật
------|------|-------|------- |-------|-------|-------|---------
-1|
-2| |TH PTUDCSDL2|DV HDH Linux|       |       |TH DV HDH Linux
-3|
+
+<table>
+    <tr>
+        <td>Tiết</td>
+        <td>Thứ 2</td>
+        <td>Thứ 3</td>
+        <td>Thứ 4</td>
+        <td>Thứ 5</td>
+        <td>Thứ 6</td>
+        <td>Thứ 7</td>
+        <td>Chủ nhật</td>
+    </tr>
+    <tr>
+        alo
+    <tr>
+</table>
