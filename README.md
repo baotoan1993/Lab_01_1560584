@@ -17,7 +17,7 @@
     </tr>
     <tr>
        <td>1</td> 
-       <td></td>
+       <td rowspan="3"></td>
        <td rowspan="3">TH PTUD CSDL2</td> 
        <td rowspan="3">DV HDH Linux</td> 
        <td rowspan="3"></td> 
@@ -49,11 +49,11 @@
     </tr>
     <tr>
        <td>7</td> 
-       <td rowspan="3">TH PTUD CSDL2</td> 
-       <td rowspan="3">DV HDH Linux</td> 
        <td rowspan="3"></td> 
        <td rowspan="3"></td> 
-       <td rowspan="3">TH DV HDH Linux</td> 
+       <td rowspan="3"></td> 
+       <td rowspan="3"></td> 
+       <td rowspan="3"></td> 
        <td rowspan="3"></td> 
        <td rowspan="3"></td> 
     </tr>
